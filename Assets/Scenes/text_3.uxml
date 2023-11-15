@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<engine:UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:engine="UnityEngine.UIElements"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd"
+>
+    <engine:Style src="project:/Assets/Scenes/test_3.uss" />
+    <engine:Box name="box">
+    <engine:Button name="button_1" class="menu_optn" text="Lentejas" />
+    <engine:Button name="button_2" class="menu_optn" text="Tortilla de papas" />
+    <engine:Button name="button_3" class="menu_optn" text="Lomo salteado" />
+    <engine:Button name="button_4" class="menu_optn" text="Calamares fritos" />
+    </engine:Box>
+    
+</engine:UXML>
